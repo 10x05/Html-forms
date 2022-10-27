@@ -8,7 +8,7 @@ body{
     background-image: url("./images/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    width: 50%;
+    width: 100%;
 }
 .forms{
     margin: 10px;

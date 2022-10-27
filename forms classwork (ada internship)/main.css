@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("./images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+}
+.forms{
+    margin: 10px;
+    width: 300px;
+    padding: 5px;
+}
+h1{
+    margin: 10px;
+    font-size: 20px;
+}
+.name1, .password1, .number1{
+    border: 2px solid #000000;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+}
+.radio-container{
+    margin: 5px 5px 0;
+}
+.checkbox-container{
+    margin: 0 5px 5px;
+}
+.btn{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: #D3D3D3;
+}
